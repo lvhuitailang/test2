@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e8b5cd4-fddd-4d32-885d-3926b99cd240" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/test2$test1__1_.coverage" NAME="test1 (1) Coverage Results" MODIFIED="1560411336148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test14" />
+    <SUITE FILE_PATH="coverage/test2$test2__1_.coverage" NAME="test2 (1) Coverage Results" MODIFIED="1560324249179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test14" />
+    <SUITE FILE_PATH="coverage/test2$Unittests_in_2222_py.coverage" NAME="Unittests in 2222.py Coverage Results" MODIFIED="1562841670330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test16" />
+    <SUITE FILE_PATH="coverage/test2$neteaseSpider.coverage" NAME="neteaseSpider Coverage Results" MODIFIED="1566294659659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/neteaseProject/neteaseProject" />
+    <SUITE FILE_PATH="coverage/test2$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1564980383527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testDBUtils" />
+    <SUITE FILE_PATH="coverage/test2$xxx.coverage" NAME="xxx Coverage Results" MODIFIED="1561361444325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test15" />
+    <SUITE FILE_PATH="coverage/test2$Twisted_Trial_in_1_py.coverage" NAME="Twisted Trial in 1.py Coverage Results" MODIFIED="1561363306460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test15" />
+    <SUITE FILE_PATH="coverage/test2$Unittests_for_ts_Test.coverage" NAME="Unittests for ts.Test Coverage Results" MODIFIED="1562841458968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test16" />
+    <SUITE FILE_PATH="coverage/test2$Unittests_in_3_py.coverage" NAME="Unittests in 3.py Coverage Results" MODIFIED="1562895421807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test16" />
+    <SUITE FILE_PATH="coverage/test2$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1565083201415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testHtmlParser" />
+    <SUITE FILE_PATH="coverage/test2$music.coverage" NAME="music Coverage Results" MODIFIED="1558604269526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test10" />
+    <SUITE FILE_PATH="coverage/test2$Unittests_in_2_py.coverage" NAME="Unittests in 2.py Coverage Results" MODIFIED="1562842018740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test15" />
+    <SUITE FILE_PATH="coverage/test2$floorSpider.coverage" NAME="floorSpider Coverage Results" MODIFIED="1564035381318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tieSpider/tieSpider" />
+    <SUITE FILE_PATH="coverage/test2$test.coverage" NAME="按键test Coverage Results" MODIFIED="1559641922406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test13" />
+    <SUITE FILE_PATH="coverage/test2$spider2.coverage" NAME="spider2 Coverage Results" MODIFIED="1564726676834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mySpider/mySpider" />
+    <SUITE FILE_PATH="coverage/test2$Test.coverage" NAME="Test Coverage Results" MODIFIED="1559201109517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test11" />
+    <SUITE FILE_PATH="coverage/test2$window.coverage" NAME="window Coverage Results" MODIFIED="1560156242397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyeputLearn" />
+    <SUITE FILE_PATH="coverage/test2$manage.coverage" NAME="manage Coverage Results" MODIFIED="1562228944090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider2" />
+    <SUITE FILE_PATH="coverage/test2$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1565081996772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testHtmlParser" />
+    <SUITE FILE_PATH="coverage/test2$testFace.coverage" NAME="testFace Coverage Results" MODIFIED="1565077033215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/faceIdentity" />
+    <SUITE FILE_PATH="coverage/test2$.coverage" NAME="我的测试 Coverage Results" MODIFIED="1561368820509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test15" />
+    <SUITE FILE_PATH="coverage/test2$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1565668522133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testHtmlParser" />
+    <SUITE FILE_PATH="coverage/test2$mySpider.coverage" NAME="mySpider Coverage Results" MODIFIED="1564023119526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tiebaSpider/tiebaSpider" />
+    <SUITE FILE_PATH="coverage/test2$Unittests_in_ts_py.coverage" NAME="Unittests in ts.py Coverage Results" MODIFIED="1562842139004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test16" />
+    <SUITE FILE_PATH="coverage/test2$test16.coverage" NAME="test16 Coverage Results" MODIFIED="1562824226033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider2/spider2" />
+    <SUITE FILE_PATH="coverage/test2$Test333.coverage" NAME="Test333 Coverage Results" MODIFIED="1559296749444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test12" />
+    <SUITE FILE_PATH="coverage/test2$Unittests_for_3_TestFunc_test_login.coverage" NAME="Unittests for 3.TestFunc.test_login Coverage Results" MODIFIED="1562843001856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test16" />
+    <SUITE FILE_PATH="coverage/test2$Test2.coverage" NAME="Test2 Coverage Results" MODIFIED="1559201248539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test11" />
+    <SUITE FILE_PATH="coverage/test2$Twisted_Trial_in_ts_py.coverage" NAME="Twisted Trial in ts.py Coverage Results" MODIFIED="1562841166907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test16" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Rwe96dA7L2u6OCllnime9C2SSR" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566793862251" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test16" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\py\test2\faceIdentity\img" />
+      <recent name="E:\py\test2\mySpider\mySpider" />
+      <recent name="E:\py\test2\spider2\spider2" />
+      <recent name="E:\py\test2\tieSpider\tieSpider" />
+      <recent name="E:\py\test2\tiebaSpider\tiebaSpider" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\py\test2\spider2\spider2" />
+      <recent name="E:\py\test2\spider2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.5555">
+    <configuration name="2222" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:/Program Files/Python/Python37/python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test16" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test16/2222.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3333" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:/Program Files/Python/Python37/python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test16" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test16/3333.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4444" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:/Program Files/Python/Python37/python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test16" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test16/4444.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="5555" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:/Program Files/Python/Python37/python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test16" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test16/5555.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="test2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:/Program Files/Python/Python37/python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spider2/spider2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spider2/spider2/manage.py" />
+      <option name="PARAMETERS" value="crawl itcast" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="floorSpider" type="PythonConfigurationType" factoryName="Python">
+      <module name="test2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:/Program Files/Python/Python37/python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tieSpider/tieSpider" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tieSpider/tieSpider/manage.py" />
+      <option name="PARAMETERS" value="crawl floorSpider" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mySpider" type="PythonConfigurationType" factoryName="Python">
+      <module name="test2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:/Program Files/Python/Python37/python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tiebaSpider/tiebaSpider" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tiebaSpider/tiebaSpider/manage.py" />
+      <option name="PARAMETERS" value="crawl mySpider" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="neteaseSpider" type="PythonConfigurationType" factoryName="Python">
+      <module name="test2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:/Program Files/Python/Python37/python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/neteaseProject/neteaseProject" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/neteaseProject/neteaseProject/manage.py" />
+      <option name="PARAMETERS" value="crawl neteaseSpider" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spider2" type="PythonConfigurationType" factoryName="Python">
+      <module name="test2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:/Program Files/Python/Python37/python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mySpider/mySpider" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mySpider/mySpider/manage.py" />
+      <option name="PARAMETERS" value="crawl itcast" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:/Program Files/Python/Python37/python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testHtmlParser" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testHtmlParser/test3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.floorSpider" />
+      <item itemvalue="Python.spider2" />
+      <item itemvalue="Python.mySpider" />
+      <item itemvalue="Python.neteaseSpider" />
+      <item itemvalue="Python.test3" />
+      <item itemvalue="Python.2222" />
+      <item itemvalue="Python.3333" />
+      <item itemvalue="Python.4444" />
+      <item itemvalue="Python.5555" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.5555" />
+        <item itemvalue="Python.3333" />
+        <item itemvalue="Python.4444" />
+        <item itemvalue="Python.2222" />
+        <item itemvalue="Python.test3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\DIY\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e8b5cd4-fddd-4d32-885d-3926b99cd240" name="Default Changelist" comment="" />
+      <created>1550647739194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550647739194</updated>
+      <workItem from="1558595896784" duration="1142000" />
+      <workItem from="1558597049470" duration="8420000" />
+      <workItem from="1559185310939" duration="460000" />
+      <workItem from="1559198012290" duration="1891000" />
+      <workItem from="1559271168536" duration="1078000" />
+      <workItem from="1559273708958" duration="911000" />
+      <workItem from="1559293045982" duration="269000" />
+      <workItem from="1559295528844" duration="1245000" />
+      <workItem from="1559296808702" duration="640000" />
+      <workItem from="1559544403875" duration="1718000" />
+      <workItem from="1559550593118" duration="607000" />
+      <workItem from="1559628303491" duration="6170000" />
+      <workItem from="1559787312561" duration="12368000" />
+      <workItem from="1559805972813" duration="855000" />
+      <workItem from="1559810345551" duration="693000" />
+      <workItem from="1559815149921" duration="386000" />
+      <workItem from="1559815591644" duration="946000" />
+      <workItem from="1560129861507" duration="128000" />
+      <workItem from="1560148124432" duration="7906000" />
+      <workItem from="1560156176493" duration="168000" />
+      <workItem from="1560156434164" duration="74000" />
+      <workItem from="1560157079402" duration="134000" />
+      <workItem from="1560321682396" duration="5199000" />
+      <workItem from="1560411098997" duration="2303000" />
+      <workItem from="1560413713128" duration="1596000" />
+      <workItem from="1561361374534" duration="4041000" />
+      <workItem from="1561368122819" duration="1532000" />
+      <workItem from="1561460128398" duration="40000" />
+      <workItem from="1561629274536" duration="28000" />
+      <workItem from="1561630657241" duration="66000" />
+      <workItem from="1562220640013" duration="8073000" />
+      <workItem from="1562816660318" duration="1978000" />
+      <workItem from="1562840840391" duration="2455000" />
+      <workItem from="1562895280480" duration="11669000" />
+      <workItem from="1562924458114" duration="972000" />
+      <workItem from="1562925914251" duration="53000" />
+      <workItem from="1563175963354" duration="722000" />
+      <workItem from="1563264727911" duration="912000" />
+      <workItem from="1563265677428" duration="1902000" />
+      <workItem from="1563267760731" duration="3703000" />
+      <workItem from="1563500791362" duration="20594000" />
+      <workItem from="1563755202637" duration="189000" />
+      <workItem from="1563784327702" duration="2434000" />
+      <workItem from="1563842080175" duration="110000" />
+      <workItem from="1563864228726" duration="5136000" />
+      <workItem from="1564019645498" duration="13050000" />
+      <workItem from="1564101167897" duration="254000" />
+      <workItem from="1564123312062" duration="3436000" />
+      <workItem from="1564360044520" duration="32000" />
+      <workItem from="1564717086135" duration="2874000" />
+      <workItem from="1564737400983" duration="51000" />
+      <workItem from="1564738071033" duration="25000" />
+      <workItem from="1564739085120" duration="63000" />
+      <workItem from="1564975805738" duration="5308000" />
+      <workItem from="1565076515611" duration="5694000" />
+      <workItem from="1565137978083" duration="4000" />
+      <workItem from="1565139129720" duration="5299000" />
+      <workItem from="1565604023351" duration="33000" />
+      <workItem from="1565667707070" duration="1455000" />
+      <workItem from="1565765551431" duration="11000" />
+      <workItem from="1566290598208" duration="4864000" />
+      <workItem from="1566347472297" duration="12000" />
+      <workItem from="1566793573092" duration="322000" />
+      <workItem from="1570582434456" duration="2101000" />
+      <workItem from="1570777087811" duration="1118000" />
+      <workItem from="1570780021129" duration="528000" />
+      <workItem from="1570783069300" duration="417000" />
+      <workItem from="1570784299656" duration="156000" />
+      <workItem from="1571211536821" duration="1490000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_3_TestFunc_test_login - 2019.07.11 at 19h 00m 57s.xml">
+      <configuration name="Unittests for 3.TestFunc.test_login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_3_py - 2019.07.11 at 19h 01m 14s.xml">
+      <configuration name="Unittests in 3.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_3_py - 2019.07.11 at 19h 03m 11s.xml">
+      <configuration name="Unittests in 3.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_3_TestFunc_test_login - 2019.07.11 at 19h 03m 22s.xml">
+      <configuration name="Unittests for 3.TestFunc.test_login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_3_py - 2019.07.11 at 19h 03m 24s.xml">
+      <configuration name="Unittests in 3.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_3_py - 2019.07.11 at 19h 03m 47s.xml">
+      <configuration name="Unittests in 3.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_3_py - 2019.07.11 at 19h 07m 37s.xml">
+      <configuration name="Unittests in 3.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_3_py - 2019.07.11 at 19h 07m 53s.xml">
+      <configuration name="Unittests in 3.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_3_py - 2019.07.11 at 19h 08m 15s.xml">
+      <configuration name="Unittests in 3.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_3_py - 2019.07.12 at 09h 37m 16s.xml">
+      <configuration name="Unittests in 3.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tiebaSpider/tiebaSpider/pipelines.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tieSpider/tieSpider/pipelines.py</url>
+          <line>82</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tieSpider/tieSpider/pipelines.py</url>
+          <line>85</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mySpider/mySpider/spiders/itcast.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/faceIdentity/testFace.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testHtmlParser/test.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/neteaseProject/neteaseProject/spiders/neteaseSpider.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/test2$4444.coverage" NAME="4444 Coverage Results" MODIFIED="1570778083838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test16" />
+    <SUITE FILE_PATH="coverage/test2$5555.coverage" NAME="5555 Coverage Results" MODIFIED="1571211934208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test16" />
+    <SUITE FILE_PATH="coverage/test2$3333.coverage" NAME="3333 Coverage Results" MODIFIED="1571211797032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test16" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.7 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>test2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
