@@ -18,8 +18,4 @@ class Message:
         json_str = {'status':str(self.status),'content':self.content}
         return json.dumps(json_str).encode('utf-8')
 
-    def __str__(self):
-        if self.status == 1:
-            return self.content
-        else:
-            return None,self.content
+
