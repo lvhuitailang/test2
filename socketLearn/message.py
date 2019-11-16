@@ -1,4 +1,5 @@
 import json
+import tkinter as tk
 '''
     0：服务端发送错误信息给客户端 
     1:服务端发送正常信息给客户端 
@@ -19,3 +20,20 @@ class Message:
         return json.dumps(json_str).encode('utf-8')
 
 
+
+class MessageList():
+    def __init__(self,maxMessageNum):
+        self.maxMessageNum = maxMessageNum
+        self.messageList = list()
+
+    #存放消息
+    def put(self,messageDic):
+        if len(self.messageList)>=self.maxMessageNum:
+            self.messageList.pop(0)
+
+        messageObj = Message(status=messageDic['status'],content=messageDic['content'])
+        self.messageList.append(messageObj)
+
+    #获得消息Lable列表
+    def getMessageList(self):
+        return self.messageList
