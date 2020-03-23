@@ -1,43 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e8b5cd4-fddd-4d32-885d-3926b99cd240" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="1e8b5cd4-fddd-4d32-885d-3926b99cd240" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/cartoonSpider/cSpider/spiders/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartoonSpider/cSpider/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartoonSpider/cSpider/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartoonSpider/cSpider/test2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartoonSpider/cSpider/utils/base64Decode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cartoonSpider/cSpider/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/cartoonSpider/cSpider/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cartoonSpider/cSpider/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/cartoonSpider/cSpider/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cartoonSpider/cSpider/spiders/alimanhua.py" beforeDir="false" afterPath="$PROJECT_DIR$/cartoonSpider/cSpider/spiders/alimanhua.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cartoonSpider/cSpider/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/cartoonSpider/cSpider/test.html" afterDir="false" />
+    </list>
+    <list id="b41e409b-4766-4658-a2bc-0a4d5db69a29" name="不提交" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/test2$test1__1_.coverage" NAME="test1 (1) Coverage Results" MODIFIED="1560411336148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test14" />
-    <SUITE FILE_PATH="coverage/test2$test2__1_.coverage" NAME="test2 (1) Coverage Results" MODIFIED="1560324249179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test14" />
-    <SUITE FILE_PATH="coverage/test2$Unittests_in_2222_py.coverage" NAME="Unittests in 2222.py Coverage Results" MODIFIED="1562841670330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test16" />
-    <SUITE FILE_PATH="coverage/test2$neteaseSpider.coverage" NAME="neteaseSpider Coverage Results" MODIFIED="1566294659659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/neteaseProject/neteaseProject" />
-    <SUITE FILE_PATH="coverage/test2$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1564980383527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testDBUtils" />
-    <SUITE FILE_PATH="coverage/test2$xxx.coverage" NAME="xxx Coverage Results" MODIFIED="1561361444325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test15" />
-    <SUITE FILE_PATH="coverage/test2$Twisted_Trial_in_1_py.coverage" NAME="Twisted Trial in 1.py Coverage Results" MODIFIED="1561363306460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test15" />
-    <SUITE FILE_PATH="coverage/test2$Unittests_for_ts_Test.coverage" NAME="Unittests for ts.Test Coverage Results" MODIFIED="1562841458968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test16" />
-    <SUITE FILE_PATH="coverage/test2$Unittests_in_3_py.coverage" NAME="Unittests in 3.py Coverage Results" MODIFIED="1562895421807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test16" />
-    <SUITE FILE_PATH="coverage/test2$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1565083201415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testHtmlParser" />
-    <SUITE FILE_PATH="coverage/test2$music.coverage" NAME="music Coverage Results" MODIFIED="1558604269526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test10" />
-    <SUITE FILE_PATH="coverage/test2$Unittests_in_2_py.coverage" NAME="Unittests in 2.py Coverage Results" MODIFIED="1562842018740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test15" />
-    <SUITE FILE_PATH="coverage/test2$floorSpider.coverage" NAME="floorSpider Coverage Results" MODIFIED="1564035381318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tieSpider/tieSpider" />
-    <SUITE FILE_PATH="coverage/test2$test.coverage" NAME="按键test Coverage Results" MODIFIED="1559641922406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test13" />
     <SUITE FILE_PATH="coverage/test2$spider2.coverage" NAME="spider2 Coverage Results" MODIFIED="1564726676834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mySpider/mySpider" />
-    <SUITE FILE_PATH="coverage/test2$Test.coverage" NAME="Test Coverage Results" MODIFIED="1559201109517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test11" />
+    <SUITE FILE_PATH="coverage/test2$client_one.coverage" NAME="client_one Coverage Results" MODIFIED="1573915476258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/socketLearn" />
+    <SUITE FILE_PATH="coverage/test2$10.coverage" NAME="10 Coverage Results" MODIFIED="1573568238202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test16" />
+    <SUITE FILE_PATH="coverage/test2$music.coverage" NAME="music Coverage Results" MODIFIED="1558604269526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test10" />
     <SUITE FILE_PATH="coverage/test2$window.coverage" NAME="window Coverage Results" MODIFIED="1560156242397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyeputLearn" />
+    <SUITE FILE_PATH="coverage/test2$test16.coverage" NAME="test16 Coverage Results" MODIFIED="1562824226033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider2/spider2" />
+    <SUITE FILE_PATH="coverage/test2$xxx.coverage" NAME="xxx Coverage Results" MODIFIED="1561361444325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test15" />
+    <SUITE FILE_PATH="coverage/test2$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1575816333113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test19" />
+    <SUITE FILE_PATH="coverage/test2$Test333.coverage" NAME="Test333 Coverage Results" MODIFIED="1559296749444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test12" />
+    <SUITE FILE_PATH="coverage/test2$Unittests_in_3_py.coverage" NAME="Unittests in 3.py Coverage Results" MODIFIED="1562895421807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test16" />
+    <SUITE FILE_PATH="coverage/test2$Twisted_Trial_in_ts_py.coverage" NAME="Twisted Trial in ts.py Coverage Results" MODIFIED="1562841166907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test16" />
+    <SUITE FILE_PATH="coverage/test2$client_three.coverage" NAME="client_three Coverage Results" MODIFIED="1573911085631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/socketLearn" />
+    <SUITE FILE_PATH="coverage/test2$client_two.coverage" NAME="client_two Coverage Results" MODIFIED="1573915484758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/socketLearn" />
+    <SUITE FILE_PATH="coverage/test2$Unittests_for_ts_Test.coverage" NAME="Unittests for ts.Test Coverage Results" MODIFIED="1562841458968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test16" />
+    <SUITE FILE_PATH="coverage/test2$Unittests_in_2_py.coverage" NAME="Unittests in 2.py Coverage Results" MODIFIED="1562842018740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test15" />
+    <SUITE FILE_PATH="coverage/test2$Test.coverage" NAME="Test Coverage Results" MODIFIED="1559201109517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test11" />
+    <SUITE FILE_PATH="coverage/test2$test.coverage" NAME="test Coverage Results" MODIFIED="1575810283458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test2$Unittests_for_3_TestFunc_test_login.coverage" NAME="Unittests for 3.TestFunc.test_login Coverage Results" MODIFIED="1562843001856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test16" />
+    <SUITE FILE_PATH="coverage/test2$Unittests_in_ts_py.coverage" NAME="Unittests in ts.py Coverage Results" MODIFIED="1562842139004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test16" />
+    <SUITE FILE_PATH="coverage/test2$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1573963858317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threadLearn" />
+    <SUITE FILE_PATH="coverage/test2$Unittests_in_2222_py.coverage" NAME="Unittests in 2222.py Coverage Results" MODIFIED="1562841670330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test16" />
+    <SUITE FILE_PATH="coverage/test2$test2__1_.coverage" NAME="test2 (1) Coverage Results" MODIFIED="1560324249179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test14" />
+    <SUITE FILE_PATH="coverage/test2$test1__1_.coverage" NAME="test1 (1) Coverage Results" MODIFIED="1560411336148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test14" />
     <SUITE FILE_PATH="coverage/test2$manage.coverage" NAME="manage Coverage Results" MODIFIED="1562228944090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider2" />
-    <SUITE FILE_PATH="coverage/test2$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1565081996772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testHtmlParser" />
-    <SUITE FILE_PATH="coverage/test2$testFace.coverage" NAME="testFace Coverage Results" MODIFIED="1565077033215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/faceIdentity" />
+    <SUITE FILE_PATH="coverage/test2$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1575813593687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test19" />
     <SUITE FILE_PATH="coverage/test2$.coverage" NAME="我的测试 Coverage Results" MODIFIED="1561368820509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test15" />
+    <SUITE FILE_PATH="coverage/test2$testFace.coverage" NAME="testFace Coverage Results" MODIFIED="1565077033215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/faceIdentity" />
     <SUITE FILE_PATH="coverage/test2$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1565668522133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testHtmlParser" />
     <SUITE FILE_PATH="coverage/test2$mySpider.coverage" NAME="mySpider Coverage Results" MODIFIED="1564023119526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tiebaSpider/tiebaSpider" />
-    <SUITE FILE_PATH="coverage/test2$Unittests_in_ts_py.coverage" NAME="Unittests in ts.py Coverage Results" MODIFIED="1562842139004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test16" />
-    <SUITE FILE_PATH="coverage/test2$test16.coverage" NAME="test16 Coverage Results" MODIFIED="1562824226033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider2/spider2" />
-    <SUITE FILE_PATH="coverage/test2$Test333.coverage" NAME="Test333 Coverage Results" MODIFIED="1559296749444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test12" />
-    <SUITE FILE_PATH="coverage/test2$Unittests_for_3_TestFunc_test_login.coverage" NAME="Unittests for 3.TestFunc.test_login Coverage Results" MODIFIED="1562843001856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test16" />
     <SUITE FILE_PATH="coverage/test2$Test2.coverage" NAME="Test2 Coverage Results" MODIFIED="1559201248539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test11" />
-    <SUITE FILE_PATH="coverage/test2$Twisted_Trial_in_ts_py.coverage" NAME="Twisted Trial in ts.py Coverage Results" MODIFIED="1562841166907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test16" />
+    <SUITE FILE_PATH="coverage/test2$floorSpider.coverage" NAME="floorSpider Coverage Results" MODIFIED="1564035381318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tieSpider/tieSpider" />
+    <SUITE FILE_PATH="coverage/test2$server.coverage" NAME="server Coverage Results" MODIFIED="1573915470436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/socketLearn" />
+    <SUITE FILE_PATH="coverage/test2$Twisted_Trial_in_1_py.coverage" NAME="Twisted Trial in 1.py Coverage Results" MODIFIED="1561363306460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test15" />
+    <SUITE FILE_PATH="coverage/test2$999.coverage" NAME="999 Coverage Results" MODIFIED="1573309905672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test16" />
+    <SUITE FILE_PATH="coverage/test2$neteaseSpider.coverage" NAME="neteaseSpider Coverage Results" MODIFIED="1566294659659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/neteaseProject/neteaseProject" />
+    <SUITE FILE_PATH="coverage/test2$777.coverage" NAME="777 Coverage Results" MODIFIED="1572778997650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test16" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -61,133 +79,46 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Rwe96dA7L2u6OCllnime9C2SSR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566793862251" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576242558533" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/test16" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cartoonSpider/cSpider/utils" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\py\test2\faceIdentity\img" />
-      <recent name="E:\py\test2\mySpider\mySpider" />
-      <recent name="E:\py\test2\spider2\spider2" />
-      <recent name="E:\py\test2\tieSpider\tieSpider" />
-      <recent name="E:\py\test2\tiebaSpider\tiebaSpider" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\py\test2\spider2\spider2" />
       <recent name="E:\py\test2\spider2" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\py\test2\socketLearn" />
+      <recent name="E:\py\test2\faceIdentity\img" />
+      <recent name="E:\py\test2\mySpider\mySpider" />
+      <recent name="E:\py\test2\spider2\spider2" />
+      <recent name="E:\py\test2\tieSpider\tieSpider" />
+    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.5555">
-    <configuration name="2222" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="test2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="D:/Program Files/Python/Python37/python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test16" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test16/2222.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="3333" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="test2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="D:/Program Files/Python/Python37/python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test16" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test16/3333.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="4444" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="test2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="D:/Program Files/Python/Python37/python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test16" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test16/4444.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="5555" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="test2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="D:/Program Files/Python/Python37/python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test16" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test16/5555.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.manage">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="test2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -226,6 +157,25 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tieSpider/tieSpider/manage.py" />
       <option name="PARAMETERS" value="crawl floorSpider" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="test2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="D:\Program Files\python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cartoonSpider/cSpider" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cartoonSpider/cSpider/manage.py" />
+      <option name="PARAMETERS" value="crawl alimanhua" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -298,20 +248,105 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="D:/Program Files/Python/Python37/python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testHtmlParser" />
+      <option name="SDK_HOME" value="D:\Program Files\python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test19" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testHtmlParser/test3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test19/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Program Files\python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test19" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/threadLearn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/threadLearn/test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Program Files\python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test19" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test19/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testJS" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="D:\Program Files\python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cartoonSpider/cSpider" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cartoonSpider/cSpider/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -322,24 +357,32 @@
     </configuration>
     <list>
       <item itemvalue="Python.floorSpider" />
-      <item itemvalue="Python.spider2" />
+      <item itemvalue="Python.manage" />
       <item itemvalue="Python.mySpider" />
       <item itemvalue="Python.neteaseSpider" />
-      <item itemvalue="Python.test3" />
-      <item itemvalue="Python.2222" />
-      <item itemvalue="Python.3333" />
-      <item itemvalue="Python.4444" />
-      <item itemvalue="Python.5555" />
+      <item itemvalue="Python.spider2" />
+      <item itemvalue="Python.test (1)" />
+      <item itemvalue="Python.test1" />
+      <item itemvalue="Python.test2" />
+      <item itemvalue="Python.testJS" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.5555" />
-        <item itemvalue="Python.3333" />
-        <item itemvalue="Python.4444" />
-        <item itemvalue="Python.2222" />
-        <item itemvalue="Python.test3" />
+        <item itemvalue="Python.testJS" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\DIY\AppData\Roaming\Subversion</configuration>
@@ -347,6 +390,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="1e8b5cd4-fddd-4d32-885d-3926b99cd240" name="Default Changelist" comment="" />
+      <changelist id="b41e409b-4766-4658-a2bc-0a4d5db69a29" name="不提交" comment="" />
       <created>1550647739194</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -420,7 +464,62 @@
       <workItem from="1570783069300" duration="417000" />
       <workItem from="1570784299656" duration="156000" />
       <workItem from="1571211536821" duration="1490000" />
+      <workItem from="1571842600403" duration="355000" />
+      <workItem from="1571843001525" duration="82000" />
+      <workItem from="1571924962201" duration="123000" />
+      <workItem from="1572353768135" duration="1422000" />
+      <workItem from="1572778583184" duration="2527000" />
+      <workItem from="1572960081317" duration="176000" />
+      <workItem from="1572965692279" duration="14028000" />
+      <workItem from="1573479812605" duration="9161000" />
+      <workItem from="1573816605741" duration="17529000" />
+      <workItem from="1573912916360" duration="1665000" />
+      <workItem from="1573914884425" duration="2093000" />
+      <workItem from="1573963508795" duration="1760000" />
+      <workItem from="1575810104130" duration="6208000" />
+      <workItem from="1576242279622" duration="299000" />
+      <workItem from="1576245912603" duration="66000" />
+      <workItem from="1577116404573" duration="423000" />
+      <workItem from="1577116869368" duration="209000" />
+      <workItem from="1581935673413" duration="124000" />
+      <workItem from="1584968865443" duration="9535000" />
     </task>
+    <task id="LOCAL-00001" summary="..">
+      <created>1573479249297</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573479249297</updated>
+    </task>
+    <task id="LOCAL-00002" summary="..">
+      <created>1573602786366</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573602786366</updated>
+    </task>
+    <task id="LOCAL-00003" summary="socket learn">
+      <created>1573916840931</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1573916840931</updated>
+    </task>
+    <task id="LOCAL-00004" summary="socket learn">
+      <created>1573916942876</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1573916942876</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2020年3月23日21:12:39">
+      <created>1584969171049</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1584969171049</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -458,58 +557,114 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=".." />
+    <MESSAGE value="socket learn" />
+    <MESSAGE value="2020年3月23日21:12:39" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020年3月23日21:12:39" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584971205503">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1584971205503" />
+    <state x="524" y="120" key="#xdebugger.evaluate" timestamp="1584972659359">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="524" y="120" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1584972659359" />
+    <state x="385" y="9" key="CommitChangelistDialog2" timestamp="1584978712693">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="385" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584978712693" />
+    <state width="1072" height="466" key="DebuggerActiveHint" timestamp="1584977345618">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1072" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1584977345618" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1584970772638">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1584970772638" />
+    <state x="449" y="25" key="FileChooserDialogImpl" timestamp="1584971193062">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="25" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584971193062" />
+    <state width="1493" height="346" key="GridCell.Tab.0.bottom" timestamp="1584978356975">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="346" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584978356975" />
+    <state width="1493" height="346" key="GridCell.Tab.0.center" timestamp="1584978356974">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="346" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584978356974" />
+    <state width="1493" height="346" key="GridCell.Tab.0.left" timestamp="1584978356974">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="346" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584978356974" />
+    <state width="1493" height="346" key="GridCell.Tab.0.right" timestamp="1584978356975">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="346" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584978356975" />
+    <state width="1493" height="346" key="GridCell.Tab.1.bottom" timestamp="1584978356976">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="346" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584978356976" />
+    <state width="1493" height="346" key="GridCell.Tab.1.center" timestamp="1584978356976">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="346" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584978356976" />
+    <state width="1493" height="346" key="GridCell.Tab.1.left" timestamp="1584978356976">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="346" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584978356976" />
+    <state width="1493" height="346" key="GridCell.Tab.1.right" timestamp="1584978356976">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="346" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584978356976" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1584977627114">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1584977627114" />
+    <state x="319" y="143" key="com.intellij.ide.util.TipDialog" timestamp="1581935674601">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="319" y="143" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581935674601" />
+    <state x="323" y="152" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1584976418386">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="323" y="152" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1584976418386" />
+    <state x="560" y="215" key="git4idea.merge.GitMergeDialog" timestamp="1584969130352">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="560" y="215" key="git4idea.merge.GitMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1584969130352" />
+    <state x="485" y="215" key="git4idea.merge.GitPullDialog" timestamp="1584969147482">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="215" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1584969147482" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/tiebaSpider/tiebaSpider/pipelines.py</url>
-          <line>52</line>
-          <option name="timeStamp" value="110" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/tieSpider/tieSpider/pipelines.py</url>
-          <line>82</line>
-          <option name="timeStamp" value="116" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/tieSpider/tieSpider/pipelines.py</url>
-          <line>85</line>
-          <option name="timeStamp" value="117" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/mySpider/mySpider/spiders/itcast.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="118" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/faceIdentity/testFace.py</url>
-          <line>60</line>
-          <option name="timeStamp" value="119" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/testHtmlParser/test.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="120" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/neteaseProject/neteaseProject/spiders/neteaseSpider.py</url>
-          <line>28</line>
-          <option name="timeStamp" value="121" />
+          <url>file://$PROJECT_DIR$/cartoonSpider/cSpider/pipelines.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
-      <default-breakpoints>
-        <breakpoint type="python-exception">
-          <properties notifyOnTerminate="true" exception="BaseException">
-            <option name="notifyOnTerminate" value="true" />
-          </properties>
-        </breakpoint>
-      </default-breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/test2$4444.coverage" NAME="4444 Coverage Results" MODIFIED="1570778083838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test16" />
-    <SUITE FILE_PATH="coverage/test2$5555.coverage" NAME="5555 Coverage Results" MODIFIED="1571211934208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test16" />
-    <SUITE FILE_PATH="coverage/test2$3333.coverage" NAME="3333 Coverage Results" MODIFIED="1571211797032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test16" />
+    <SUITE FILE_PATH="coverage/test2$manage.coverage" NAME="manage Coverage Results" MODIFIED="1584977788396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cartoonSpider/cSpider" />
+    <SUITE FILE_PATH="coverage/test2$testJS.coverage" NAME="testJS Coverage Results" MODIFIED="1584975996636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cartoonSpider/cSpider" />
   </component>
   <component name="masterDetails">
     <states>

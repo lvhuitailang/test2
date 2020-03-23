@@ -1,0 +1,17 @@
+[Failure instance: Traceback: <class 'TypeError'>: %d format: a number is required, not str
+D:\Program Files\python37\lib\threading.py:917:_bootstrap_inner
+D:\Program Files\python37\lib\threading.py:865:run
+D:\Program Files\python37\lib\site-packages\twisted\_threads\_threadworker.py:46:work
+D:\Program Files\python37\lib\site-packages\twisted\_threads\_team.py:190:doWork
+--- <exception caught here> ---
+D:\Program Files\python37\lib\site-packages\twisted\python\threadpool.py:250:inContext
+D:\Program Files\python37\lib\site-packages\twisted\python\threadpool.py:266:<lambda>
+D:\Program Files\python37\lib\site-packages\twisted\python\context.py:122:callWithContext
+D:\Program Files\python37\lib\site-packages\twisted\python\context.py:85:callWithContext
+D:\Program Files\python37\lib\site-packages\twisted\enterprise\adbapi.py:473:_runInteraction
+D:\Program Files\python37\lib\site-packages\twisted\python\compat.py:464:reraise
+D:\Program Files\python37\lib\site-packages\twisted\enterprise\adbapi.py:463:_runInteraction
+F:\py\test2\cartoonSpider\cSpider\pipelines.py:60:insert_data_to_mysql
+D:\Program Files\python37\lib\site-packages\pymysql\cursors.py:168:execute
+D:\Program Files\python37\lib\site-packages\pymysql\cursors.py:147:mogrify
+]

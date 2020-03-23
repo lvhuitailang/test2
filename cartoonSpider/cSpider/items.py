@@ -14,13 +14,13 @@ class CspiderItem(scrapy.Item):
     pass
 
 
-class CartoonChapter(scrapy.Item):
+class Chapter(scrapy.Item):
     '''
     type:类型，1表示章节，2表示详情
     '''
-    type = scrapy.Field()
     id = scrapy.Field()
     title = scrapy.Field()
+    type = scrapy.Field()
     chapterTitle = scrapy.Field()
     chapterUrl = scrapy.Field()
 
@@ -30,38 +30,7 @@ class CartoonChapter(scrapy.Item):
     def getInsertSql(self):
         sql = '''
         insert into chapter
-        (title,chapterTitle,chapterUrl)
-        values(%s,%s,%s)
-        '''
-        return sql
-
-    def getInsertData(self,item):
-        data = (
-            item['title'],
-            item['chapterTitle'],
-            item['chapterUrl'],
-
-        )
-        return data
-
-
-class CspiderItemDetail(scrapy.Item):
-    '''
-   type:类型，1表示章节，2表示详情
-   '''
-    type = scrapy.Field()
-    id = scrapy.Field()
-    title = scrapy.Field()
-    chapterId = scrapy.Field()
-    chapterTitle = scrapy.Field()
-    chapterUrl = scrapy.Field()
-    page = scrapy.Field()
-
-
-    def getInsertSql(self):
-        sql = '''
-        insert into chapter
-        (title,chapterId,chapterTitle,chapterUrl)
+        (title,type,chapterTitle,chapterUrl)
         values(%s,%s,%s,%s)
         '''
         return sql
@@ -69,9 +38,47 @@ class CspiderItemDetail(scrapy.Item):
     def getInsertData(self,item):
         data = (
             item['title'],
+            str(item['type']),
+            item['chapterTitle'],
+            item['chapterUrl'],
+
+        )
+        return data
+
+
+class ChapterDetail(scrapy.Item):
+    '''
+   type:类型，1表示章节，2表示详情
+   '''
+    id = scrapy.Field()
+    title = scrapy.Field()
+    type = scrapy.Field()
+    chapterId = scrapy.Field()
+    chapterTitle = scrapy.Field()
+    chapterUrl = scrapy.Field()
+    page = scrapy.Field()
+    pageUrl = scrapy.Field()
+    imageUrl = scrapy.Field()
+
+
+    def getInsertSql(self):
+        sql = '''
+        insert into chapterDetail
+        (title,type,chapterId,chapterTitle,chapterUrl,page,pageUrl,imageUrl)
+        values(%s,%s,%s,%s,%s,%s,%s,%s)
+        '''
+        return sql
+
+    def getInsertData(self,item):
+        data = (
+            item['title'],
+            str(item['type']),
             item['chapterId'],
             item['chapterTitle'],
             item['chapterUrl'],
+            str(item['page']),
+            item['pageUrl'],
+            item['imageUrl'],
 
         )
         return data

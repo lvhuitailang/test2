@@ -19,6 +19,14 @@ class CspiderPipeline(object):
 
 
     def process_item(self, item, spider):
+        if item['type'] == 1:
+            self.deal_chapter(item)
+        elif item['type'] == 2:
+            self.deal_chapter_details(item)
+
+
+    #处理章节
+    def deal_chapter(self,item):
         if item is None or item['chapterUrl'] is None :
             raise DropItem("Missing chapterUrl")
         query = self.dbpool.runInteraction(
@@ -30,6 +38,19 @@ class CspiderPipeline(object):
             item
         )
 
+    #处理每一页
+    def deal_chapter_details(self,item):
+        if item is None or item['imageUrl'] is None :
+            raise DropItem("Missing chapterUrl")
+        query = self.dbpool.runInteraction(
+            self.insert_data_to_mysql,
+            item
+        )
+        query.addErrback(
+            self.insert_err,
+            item
+        )
+        pass
 
 
     #插入
