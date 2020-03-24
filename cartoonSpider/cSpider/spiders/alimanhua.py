@@ -24,10 +24,15 @@ class AlimanhuaSpider(scrapy.Spider):
         title = doc('.titleInfo h1').text()
         lst = []
         liList = doc('#section ul li')
-        for li in liList.items():
+        reversedList = []
+        for it in liList.items():
+            reversedList.append(it)
+        reversedList.reverse()
+        for index,li in enumerate(reversedList):
             c = li('a')
             chapter = Chapter()
             chapter['title'] = title
+            chapter['sort'] = str(index)
             chapter['type'] = 1
             chapter['chapterTitle'] = c.attr('title')
             chapter['chapterUrl'] = self.allowed_domains[0] + c.attr('href')
@@ -74,6 +79,7 @@ class AlimanhuaSpider(scrapy.Spider):
         chapterDetail['title'] = chapter['title']
         chapterDetail['type'] = 2
         chapterDetail['chapterId'] = chapterId
+        chapterDetail['chapterSort'] = chapter['sort']
         chapterDetail['chapterTitle'] = chapter['chapterTitle']
         chapterDetail['chapterUrl'] = chapter['chapterUrl']
         chapterDetail['page'] = currPage

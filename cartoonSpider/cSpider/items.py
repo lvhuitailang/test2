@@ -20,6 +20,7 @@ class Chapter(scrapy.Item):
     '''
     id = scrapy.Field()
     title = scrapy.Field()
+    sort = scrapy.Field()
     type = scrapy.Field()
     chapterTitle = scrapy.Field()
     chapterUrl = scrapy.Field()
@@ -30,14 +31,15 @@ class Chapter(scrapy.Item):
     def getInsertSql(self):
         sql = '''
         insert into chapter
-        (title,type,chapterTitle,chapterUrl)
-        values(%s,%s,%s,%s)
+        (title,sort,type,chapterTitle,chapterUrl)
+        values(%s,%s,%s,%s,%s)
         '''
         return sql
 
     def getInsertData(self,item):
         data = (
             item['title'],
+            str(item['sort']),
             str(item['type']),
             item['chapterTitle'],
             item['chapterUrl'],
@@ -54,6 +56,7 @@ class ChapterDetail(scrapy.Item):
     title = scrapy.Field()
     type = scrapy.Field()
     chapterId = scrapy.Field()
+    chapterSort = scrapy.Field()
     chapterTitle = scrapy.Field()
     chapterUrl = scrapy.Field()
     page = scrapy.Field()
@@ -64,8 +67,8 @@ class ChapterDetail(scrapy.Item):
     def getInsertSql(self):
         sql = '''
         insert into chapterDetail
-        (title,type,chapterId,chapterTitle,chapterUrl,page,pageUrl,imageUrl)
-        values(%s,%s,%s,%s,%s,%s,%s,%s)
+        (title,type,chapterId,chapterSort,chapterTitle,chapterUrl,page,pageUrl,imageUrl)
+        values(%s,%s,%s,%s,%s,%s,%s,%s,%s)
         '''
         return sql
 
@@ -74,6 +77,7 @@ class ChapterDetail(scrapy.Item):
             item['title'],
             str(item['type']),
             item['chapterId'],
+            str(item['chapterSort']),
             item['chapterTitle'],
             item['chapterUrl'],
             str(item['page']),
