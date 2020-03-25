@@ -1,6 +1,6 @@
 import pymysql
 from twisted.enterprise import adbapi
-from cSpider.utils.db_config import db_config
+from cartoonSpider.cSpider.utils.db_config import db_config
 
 class DbPool:
 
@@ -9,18 +9,17 @@ class DbPool:
 
 
     def __init__(self,db_name=None):
-        if self.dbpool is None:
-            self.initDbPool(db_config)
         if db_name is not None:
             self.db_name = db_name
-        pass
+        else:
+            self.db_name = db_config['MYSQL_DB']
+        if self.dbpool is None:
+            self.initDbPool()
 
-
-    def initDbPool(self,db_config):
-        db_name_temp =  db_config['MYSQL_DB'] if self.db_name is None  else  self.db_Name
+    def initDbPool(self):
         db_parmars = {
             'host': db_config['MYSQL_HOST'],
-            'db': db_name_temp,
+            'db': self.db_name,
             'port': db_config['MYSQL_PORT'],
             'user': db_config['MYSQL_USER'],
             'passwd': db_config['MYSQL_PASSWORD'],
@@ -31,3 +30,50 @@ class DbPool:
 
     def getDbPool(self):
         return self.dbpool
+
+class MySqlHelper:
+    conn = None
+    db_name = None
+
+
+    def __init__(self,db_name=None):
+        if db_name is not None:
+            self.db_name = db_name
+        else:
+            self.db_name = db_config['MYSQL_DB']
+        if self.conn is None:
+            self.initDbHelper()
+
+
+    def initDbHelper(self):
+        db_parmars = {
+            'host': db_config['MYSQL_HOST'],
+            'database': self.db_name,
+            'port': db_config['MYSQL_PORT'],
+            'user': db_config['MYSQL_USER'],
+            'password': db_config['MYSQL_PASSWORD'],
+            'charset': db_config['MYSQL_CHARSET'],
+        }
+        self.conn = pymysql.Connect(**db_parmars)  #数据库连接对象
+
+
+    def getConn(self):
+        return self.conn if self.conn is not None else None
+
+    def close(self):
+        if self.conn is not None:
+            self.conn.close()
+
+    #查询
+    def query(self,sql,params):
+        if self.conn is None:
+            self.close()
+            return None
+
+        cursor = self.conn.cursor()
+        lines = cursor.execute(sql,params)
+        self.close()
+        if lines > 0:
+            return cursor.fetchall()
+        else:
+            return None
