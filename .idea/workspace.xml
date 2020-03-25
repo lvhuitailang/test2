@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e8b5cd4-fddd-4d32-885d-3926b99cd240" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cartoonSpider/cSpider/spiders/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cartoonSpider/cSpider/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cartoonSpider/cSpider/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cartoonSpider/cSpider/test2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cartoonSpider/cSpider/utils/base64Decode.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cartoonSpider/cSpider/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/cartoonSpider/cSpider/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cartoonSpider/cSpider/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/cartoonSpider/cSpider/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cartoonSpider/cSpider/spiders/alimanhua.py" beforeDir="false" afterPath="$PROJECT_DIR$/cartoonSpider/cSpider/spiders/alimanhua.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cartoonSpider/cSpider/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/cartoonSpider/cSpider/test.html" afterDir="false" />
-    </list>
+    <list default="true" id="1e8b5cd4-fddd-4d32-885d-3926b99cd240" name="Default Changelist" comment="" />
     <list id="b41e409b-4766-4658-a2bc-0a4d5db69a29" name="不提交" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,16 +95,16 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\py\test2\spider2\spider2" />
-      <recent name="E:\py\test2\spider2" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\py\test2\cartoonSpider\cSpider\utils" />
       <recent name="F:\py\test2\socketLearn" />
       <recent name="E:\py\test2\faceIdentity\img" />
       <recent name="E:\py\test2\mySpider\mySpider" />
       <recent name="E:\py\test2\spider2\spider2" />
-      <recent name="E:\py\test2\tieSpider\tieSpider" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\py\test2\spider2\spider2" />
+      <recent name="E:\py\test2\spider2" />
     </key>
   </component>
   <component name="RunManager" selected="Python.manage">
@@ -167,7 +156,10 @@
       <module name="test2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="D:\Program Files\python37\python.exe" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:/Program Files/Python/Python37/python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cartoonSpider/cSpider" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -175,7 +167,7 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cartoonSpider/cSpider/manage.py" />
       <option name="PARAMETERS" value="crawl alimanhua" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -340,6 +332,9 @@
       <module name="test2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="D:\Program Files\python37\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cartoonSpider/cSpider" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -361,6 +356,7 @@
       <item itemvalue="Python.mySpider" />
       <item itemvalue="Python.neteaseSpider" />
       <item itemvalue="Python.spider2" />
+      <item itemvalue="Python.test" />
       <item itemvalue="Python.test (1)" />
       <item itemvalue="Python.test1" />
       <item itemvalue="Python.test2" />
@@ -483,6 +479,8 @@
       <workItem from="1577116869368" duration="209000" />
       <workItem from="1581935673413" duration="124000" />
       <workItem from="1584968865443" duration="9535000" />
+      <workItem from="1585027824703" duration="1479000" />
+      <workItem from="1585104513953" duration="1052000" />
     </task>
     <task id="LOCAL-00001" summary="..">
       <created>1573479249297</created>
@@ -519,7 +517,21 @@
       <option name="project" value="LOCAL" />
       <updated>1584969171049</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2020年3月24日13:51:41">
+      <created>1585029111929</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585029111929</updated>
+    </task>
+    <task id="LOCAL-00007" summary="2020年3月24日13:51:41">
+      <created>1585029214318</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1585029214318</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -571,20 +583,23 @@
     <MESSAGE value=".." />
     <MESSAGE value="socket learn" />
     <MESSAGE value="2020年3月23日21:12:39" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020年3月23日21:12:39" />
+    <MESSAGE value="2020年3月24日13:51:41" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020年3月24日13:51:41" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584971205503">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="209" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585027862303">
+      <screen x="0" y="0" width="1440" height="870" />
     </state>
+    <state x="209" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.870@0.0.1440.870" timestamp="1585027862303" />
     <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1584971205503" />
     <state x="524" y="120" key="#xdebugger.evaluate" timestamp="1584972659359">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="524" y="120" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1584972659359" />
-    <state x="385" y="9" key="CommitChangelistDialog2" timestamp="1584978712693">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="361" y="10" key="CommitChangelistDialog2" timestamp="1585029212704">
+      <screen x="0" y="0" width="1440" height="870" />
     </state>
+    <state x="361" y="10" key="CommitChangelistDialog2/0.0.1440.870@0.0.1440.870" timestamp="1585029212704" />
     <state x="385" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584978712693" />
     <state width="1072" height="466" key="DebuggerActiveHint" timestamp="1584977345618">
       <screen x="0" y="0" width="1536" height="824" />
@@ -598,21 +613,25 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="449" y="25" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584971193062" />
-    <state width="1493" height="346" key="GridCell.Tab.0.bottom" timestamp="1584978356975">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1396" height="219" key="GridCell.Tab.0.bottom" timestamp="1585029309753">
+      <screen x="0" y="0" width="1440" height="870" />
     </state>
+    <state width="1396" height="219" key="GridCell.Tab.0.bottom/0.0.1440.870@0.0.1440.870" timestamp="1585029309753" />
     <state width="1493" height="346" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584978356975" />
-    <state width="1493" height="346" key="GridCell.Tab.0.center" timestamp="1584978356974">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1396" height="219" key="GridCell.Tab.0.center" timestamp="1585029309753">
+      <screen x="0" y="0" width="1440" height="870" />
     </state>
+    <state width="1396" height="219" key="GridCell.Tab.0.center/0.0.1440.870@0.0.1440.870" timestamp="1585029309753" />
     <state width="1493" height="346" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584978356974" />
-    <state width="1493" height="346" key="GridCell.Tab.0.left" timestamp="1584978356974">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1396" height="219" key="GridCell.Tab.0.left" timestamp="1585029309753">
+      <screen x="0" y="0" width="1440" height="870" />
     </state>
+    <state width="1396" height="219" key="GridCell.Tab.0.left/0.0.1440.870@0.0.1440.870" timestamp="1585029309753" />
     <state width="1493" height="346" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584978356974" />
-    <state width="1493" height="346" key="GridCell.Tab.0.right" timestamp="1584978356975">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1396" height="219" key="GridCell.Tab.0.right" timestamp="1585029309753">
+      <screen x="0" y="0" width="1440" height="870" />
     </state>
+    <state width="1396" height="219" key="GridCell.Tab.0.right/0.0.1440.870@0.0.1440.870" timestamp="1585029309753" />
     <state width="1493" height="346" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584978356975" />
     <state width="1493" height="346" key="GridCell.Tab.1.bottom" timestamp="1584978356976">
       <screen x="0" y="0" width="1536" height="824" />
@@ -630,9 +649,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="346" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584978356976" />
-    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1584978726460">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="338" y="157" key="Vcs.Push.Dialog.v2" timestamp="1585029307590">
+      <screen x="0" y="0" width="1440" height="870" />
     </state>
+    <state x="338" y="157" key="Vcs.Push.Dialog.v2/0.0.1440.870@0.0.1440.870" timestamp="1585029307590" />
     <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1584978726460" />
     <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1584977627114">
       <screen x="0" y="0" width="1536" height="824" />
@@ -650,9 +670,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="560" y="215" key="git4idea.merge.GitMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1584969130352" />
-    <state x="485" y="215" key="git4idea.merge.GitPullDialog" timestamp="1584969147482">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="455" y="227" key="git4idea.merge.GitPullDialog" timestamp="1585104746279">
+      <screen x="0" y="0" width="1440" height="870" />
     </state>
+    <state x="455" y="227" key="git4idea.merge.GitPullDialog/0.0.1440.870@0.0.1440.870" timestamp="1585104746279" />
     <state x="485" y="215" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1584969147482" />
   </component>
   <component name="XDebuggerManager">
@@ -667,7 +688,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/test2$manage.coverage" NAME="manage Coverage Results" MODIFIED="1584977788396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cartoonSpider/cSpider" />
+    <SUITE FILE_PATH="coverage/test2$manage.coverage" NAME="manage Coverage Results" MODIFIED="1585028712444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cartoonSpider/cSpider" />
     <SUITE FILE_PATH="coverage/test2$testJS.coverage" NAME="testJS Coverage Results" MODIFIED="1584975996636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cartoonSpider/cSpider" />
   </component>
   <component name="masterDetails">
